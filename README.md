@@ -1,16 +1,15 @@
-# fullpage
+# LeePage.js
 
-Fullpage.js Clone
+Develop a function very similar to fullpage.js as a plotter.
 
-## Getting Started
+## 미리보기
 
-This project is a starting point for a Flutter application.
+# LeePage.js From Flutter
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/53187258/117545124-736f7c80-b05f-11eb-8de2-fa74dc889fbf.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Fullpage.js
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://alvarotrigo.com/fullPage/ko/
+
+
